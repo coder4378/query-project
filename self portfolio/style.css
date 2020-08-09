@@ -1,0 +1,40 @@
+body{
+
+background-color:#808080;
+
+}
+/**{
+    border:solid
+    
+    }*/
+
+h2{
+    color: coral;
+}
+
+.p1{
+    font-size:larger;
+    font-weight:bolder;
+    color: aqua;
+    
+}
+.p2{
+    font-size:larger;
+    font-weight:bolder;
+    color:rgb(255, 94, 0);
+    
+}
+
+.header{
+    color: chartreuse;
+    display:flex;
+    justify-content:space-around;;
+    padding-left:200px;
+}
+
+a:link{
+    color:white;
+}
+a:visited{
+    color:green;
+}

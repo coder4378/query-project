@@ -1,0 +1,22 @@
+
+.header{
+color: chartreuse;
+font-size: larger;
+font-weight: bolder;
+}
+h1{
+    color: chartreuse;
+}
+h1:hover{
+   
+    color: chartreuse;
+    transform: scale(3,5) rotate(-20deg);
+}
+.p1{
+color: cyan;
+font-size: larger;
+font-weight: bolder;
+}
+body{
+    background-color: black;
+    }
